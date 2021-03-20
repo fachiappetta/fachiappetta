@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Frankie Chiappetta
-- 👀 I’m interested in GIS capabilities for ecological and economic spatial analysis of resources; geospatial modeling for environmental policy analysis and land use
+- 👀 I’m interested in GIS capabilities for ecological and economic spatial analysis of resources; geospatial modeling for environmental and land use policy analysis
 - 🌱 I’m currently learning R (mostly for statistics) and Python (mostly for ML and geospatial data anlaysis)
 - 📫 How to reach me fachiappetta@gmail.com
 
