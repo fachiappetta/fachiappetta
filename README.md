@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Frankie Chiappetta
-- 👀 I’m interested in spatial analysis for economics and resource mananagement & geospatial modeling to inform environmental policy analysis
+- 👀 I’m interested in spatial analysis for economics and resource mananagement & geospatial modeling to inform environmental policies
 - 🌱 I’m currently learning R (mostly for statistics) and Python (mostly for ML and geospatial data anlaysis)
 - 📫 How to reach me fac16@duke.edu
 
